@@ -1,2 +1,2 @@
-# all-in-one-m4-theme
+# All In One M4 Theme
 GitHub Pages
