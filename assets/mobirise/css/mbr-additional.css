@@ -1138,6 +1138,10 @@ section.lazy-placeholder:after {
 .cid-rOtErAr3Uc .mbr-text {
   color: #767676;
 }
+.cid-rOtErAr3Uc .card {
+  padding: 5px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
 .cid-rOtErAr3Uc .card-subtitle {
   margin: 0;
 }
@@ -1179,6 +1183,7 @@ section.lazy-placeholder:after {
 }
 .cid-rOtErAr3Uc .row {
   justify-content: center;
+  gap: 1rem;
 }
 @media (max-width: 992px) {
   .cid-rOtErAr3Uc .card {
@@ -1448,13 +1453,13 @@ section.lazy-placeholder:after {
   position: relative;
   z-index: 0;
   overflow: hidden;
-  border-radius: 10px 10px 10px 10px;
-  -moz-border-radius: 10px 10px 10px 10px;
-  -webkit-border-radius: 10px 10px 10px 10px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
   border: 0px solid #000000;
-  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
-  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  -moz-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 .cid-rOtW6U1Zem .image-element img {
   width: 100%;
