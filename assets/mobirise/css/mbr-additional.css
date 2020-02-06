@@ -1139,7 +1139,8 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rOtErAr3Uc .card {
-  padding: 5px;
+  padding: 10px;
+  margin: 5px;
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 .cid-rOtErAr3Uc .card-subtitle {
@@ -1183,7 +1184,7 @@ section.lazy-placeholder:after {
 }
 .cid-rOtErAr3Uc .row {
   justify-content: center;
-  gap: 1rem;
+  gap: 3rem;
 }
 @media (max-width: 992px) {
   .cid-rOtErAr3Uc .card {
